@@ -2,8 +2,12 @@
 <h3 align="center">Junior Flutter Developer 📱 | Dart & Flutter Enthusiast 🚀 | Computer Science Engineer 💻</h3>
 
 <p align="center">
-  <a href="https://github.com/Shehabeldien" /></a>
-  <a href="https://www.linkedin.com/in/shehab-eldien-1693262a3/" /></a>
+  <a href="https://github.com/Shehabeldien" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/shehab-eldien-1693262a3/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -37,4 +41,12 @@ class ShehabFawzy {
 - 🔗 Experienced in integrating Flutter applications with **REST APIs & Backend services**
 - 🧠 Applying **OOP, Clean Code, Clean Architecture & Repository Pattern**
 - ⚡ Working with **BLoC / Cubit** for state management
-- 🤝 Experienced in collaborating
+- 🤝 Experienced in collaborating with backend developers and handling API integration challenges
+- 🚀 Continuously learning and improving my Flutter development skills
+
+---
+
+## 🧰 Tech Toolbox
+
+<p align="center">
+  <img
